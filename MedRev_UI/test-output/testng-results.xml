@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Navigating to URL: https://demo.medrevup.com/auth/login]]>
+    </line>
+    <line>
+      <![CDATA[Login to Portal]]>
+    </line>
+    <line>
+      <![CDATA[Entering User Name - darien58@example.org]]>
+    </line>
+    <line>
+      <![CDATA[Entering Password]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Login Button]]>
+    </line>
+    <line>
+      <![CDATA[Validating Success Login]]>
+    </line>
+    <line>
+      <![CDATA[Verify suggestion engine for Name Text Box  on Send Survey Page]]>
+    </line>
+    <line>
+      <![CDATA[Closing All Browser Instance]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-10-11T17:34:24 IST" name="Default suite" finished-at="2022-10-11T17:34:49 IST" duration-ms="25086">
+    <groups>
+    </groups>
+    <test started-at="2022-10-11T17:34:24 IST" name="Default test" finished-at="2022-10-11T17:34:49 IST" duration-ms="25086">
+      <class name="com.MedRev.suits.test.SendSurveyPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.MedRev.suits.test.SendSurveyPageTest@6b927fb]" started-at="2022-10-11T17:34:24 IST" name="setup" finished-at="2022-10-11T17:34:38 IST" duration-ms="13446" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to URL: https://demo.medrevup.com/auth/login]]>
+            </line>
+            <line>
+              <![CDATA[Login to Portal]]>
+            </line>
+            <line>
+              <![CDATA[Entering User Name - darien58@example.org]]>
+            </line>
+            <line>
+              <![CDATA[Entering Password]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Login Button]]>
+            </line>
+            <line>
+              <![CDATA[Validating Success Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SendSurveyPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.MedRev.suits.test.SendSurveyPageTest@6b927fb]" started-at="2022-10-11T17:34:38 IST" name="SendSurveyPage" data-provider="SendSurveyPage" finished-at="2022-10-11T17:34:48 IST" duration-ms="10269" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MED-803]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[S5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DASHBOARD_SUGGESTIONENGINE_NAMETEXTBOX_SENDSURVEYPAGE_803]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SurveyResultPage]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Verify suggestion engine for Name Text Box  on Send Survey Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SendSurveyPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.MedRev.suits.test.SendSurveyPageTest@6b927fb]" started-at="2022-10-11T17:34:48 IST" name="tearDown" finished-at="2022-10-11T17:34:49 IST" duration-ms="1305" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing All Browser Instance]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.MedRev.suits.test.SendSurveyPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

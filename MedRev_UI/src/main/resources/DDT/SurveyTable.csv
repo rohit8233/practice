@@ -1,0 +1,18 @@
+TCID,TSID,Key,featureId,email,name,respondentType,surveyType,mobileNumber,provider,department,verificationText1,verificationText2,verificationText3
+MED-876,S3,SURVEY_TABLE_PAGE_APPEARANCE_876,SurveyTable,,,,,,,,Surveys Table,,
+MED-878,S3,SURVEY_TABLE_SECTION_APPEARANCE_878,SurveyTable,,,,,,,,"This table displays information about all surveys that have ever been sent for the current location, including those that have not been completed yet.;All Respondent Types;ATHENS SOFTWARE SERVICE","Respondent Name,Respondent Email,Respondent Phone,Department,Provider,Opted Out of Emails,Opted Out of Texts,Sent,# Reminders Sent,Started,Completed,Questions Asked,Ratings,Average Rating,Comments,Survey Report",""
+MED-879,S3,SURVEY_TABLE_CHANGED_LOCATION_879,SurveyTable,,,,,,,,"Surveys Table;Athens Software Service;Google Store Chelsea, New York, NY",,
+MED-880,S3,SURVEY_TABLE_SCREEN_CHANGE_USER_880,SurveyTable,,,,,,,,"Surveys Table",,
+MED-881,S3,SURVEY_TABLE_SCREEN_RESPONDENT_TYPE_881,SurveyTable,,,,,,,,"Surveys Table,All Respondent Types,ATHENS SOFTWARE SERVICE",,
+MED-882,S3,SURVEY_TABLE_SCREEN_ALL_RESPONDENT_TYPES_DATA_882,SurveyTable,qa.medrev@gmail.com,john,All Respondent Types,SurveyTestAuto,,Dr.John Smith,Cardiolog,"Surveys Table,All Respondent Types,qa.medrev@gmail.com",Success,
+MED-884,S3,SURVEY_TABLE_SCREEN_OTHER_RESPONDENT_TYPE_DATA_884,SurveyTable,qa.medrev@gmail.com,john,ATHENS SOFTWARE SERVICE,Company 2/ Location Athens,,Dr.John Smith,Cardiolog,"Surveys Table,ATHENS SOFTWARE SERVICE,qa.medrev@gmail.com,All Respondent Types",Success,
+MED-885,S3,SURVEY_TABLE_SCREEN_DOWNLOAD_BUTTON_885,SurveyTable,,,,,,,,"Surveys Table","Surveys_Table.csv",
+MED-887,S3,SURVEY_TABLE_SCREEN_PAGER_FUNCTIONALITY_887,SurveyTable,,,,,,,,"Surveys Table",,
+MED-888,S3,SURVEY_TABLE_SCREEN_SORTING_FUNCTIONALITY_888,SurveyTable,,,,,,,,"Surveys Table,Athens Software Service",,
+MED-889,S3,SURVEY_TABLE_FUNCTIONALITY_889,SurveyTable,,,,,,,,"Surveys Table","Google Store Chelsea, New York, NY;All Respondent Types",
+MED-890,S3,SURVEY_TABLE_ATTEMPTED_APPEARANCE_890,SurveyTable,qa.medrev@gmail.com,rohit,All Respondent Types,SurveyTestAuto,,Dr.John Smith,Cardiolog,"Surveys Table,Athens Software Service,All Respondent Types,Never",Success,
+MED-891,S3,SURVEY_TABLE_NOT_ATTEMPTED_APPEARANCE_891,SurveyTable,qa.medrev@gmail.com,john,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiolog,"Surveys Table,Athens Software Service,All Respondent Types,Never",Success,
+MED-892,S3,SURVEY_TABLE__DRAGGABLE_FUNCTIONALITY_892,SurveyTable,,,,,,,,"Surveys Table",,
+MED-893,S3,SURVEY_TABLE__QUESTIONS_ASKED_FUNCTIONALITY_893,SurveyTable,,,,,,,,"Surveys Table,Questions Asked","",
+MED-894,S3,SURVEY_TABLE__COMMENTS_FUNCTIONALITY_894,SurveyTable,,,,,,,,"Surveys Table,Kapil Kumar Gupta's Comments,Your Services was not good",,
+MED-895,S3,SURVEY_TABLE__VIEW_FUNCTIONALITY_895,SurveyTable,,,,,,,,"Surveys Table,SurveyTestAuto","",

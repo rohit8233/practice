@@ -1,0 +1,24 @@
+TCID,TSID,Key,featureId,email,name,respondentType,surveyType,mobileNumber,provider,department,verificationText1,verificationText2,verificationText3
+MED-904,S2,ANALYSIS_FUNCTIONALITY_904,Analysis,,,,,,,,"Analysis,All Respondent Types","Google Store Chelsea, New York, NY;Athens Software Service",""
+MED-905,S2,ANALYSIS_SELECT_TIMEFRAME_FUNCTIONALITY_905,Analysis,,,,,,,,"Analysis,All Respondent Types","",
+MED-906,S2,ANALYSIS_DROPDOWN_ALLRESPONDENT_SELECTED_906,Analysis,,,,,,,,"Analysis,All Respondent Types","All Respondent Types;Google Store Chelsea, New York, NY;Athens Software Service",""
+MED-907,S2,ANALYSIS_DROPDOWN_OTHER_SELECTED_907,Analysis,,,,,,,,"Analysis,All Respondent Types","SurveyTestAuto,ATHENS SOFTWARE SERVICE,All Respondent Types,General Statistics",""
+MED-908,S2,ANALYSIS_DROPDOWN_CLIENT_SELECTED_908,Analysis,,,,,,,,"","",""
+MED-909,S2,ANALYSIS_SURVEY_TYPE_DROPDOWN_GENERALSTATISTICS_SELECTED_909,Analysis,,,,,,,,"Analysis,All Respondent Types","General Statistics;Google Store Chelsea, New York, NY;Athens Software Service",""
+MED-910,S2,ANALYSIS_SURVEY_TYPE_DROPDOWN_OTHER_GENERALSTATISTICS_SELECTED_910,Analysis,,,,,,,,"Analysis,All Respondent Types","SurveyTestAuto,General Statistics",""
+MED-911,S2,ANALYSIS_DATA_DISPLAY_SELECTED_RESPONDENT/SURVEY_TYPE_911,Analysis,,,,,,,,"Analysis,All Respondent Types","All Respondent Types,SurveyTestAuto,ATHENS SOFTWARE SERVICE,Company 2/ Location Athens,General Statistics",
+MED-912,S2,ANALYSIS_BUSINESS_STATISTIC_SECTION_912,Analysis,qa.medrev@gmail.com,rohit,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiology,Success,"Analysis,All Respondent Types",""
+MED-913,S2,ANALYSIS_GOOD/BAD_SECTION_BUSINESS_STATISTIC_SECTION_913,Analysis,qa.medrev@gmail.com,rohit,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiology,Success,"Analysis,All Respondent Types","ATHENS SOFTWARE SERVICE,SurveyTestAuto,ATHENS SOFTWARE SERVICE,SurveyTestAuto,General Statistics,All Respondent Types"
+MED-914,S2,ANALYSIS_SECTION_SURVEY_COMMENT_NEGATIVE_914,Analysis,qa.medrev@gmail.com,rohit,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiology,Success,"Analysis,All Respondent Types","ATHENS SOFTWARE SERVICE,ATHENS SOFTWARE SERVICE,All Respondent Types"
+MED-915,S2,ANALYSIS_GOOD/BAD_SECTION_BUSINESS_STATISTIC_SECTION_WRT_GENERAL_STATISTICS_915,Analysis,qa.medrev@gmail.com,rohit,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiology,Success,"Analysis,All Respondent Types",""
+MED-916,S2,ANALYSIS_SECTION_SURVEY_COMMENT_POSITIVE_916,Analysis,qa.medrev@gmail.com,rohit,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiology,Success,"Analysis,All Respondent Types","ATHENS SOFTWARE SERVICE,ATHENS SOFTWARE SERVICE,All Respondent Types"
+MED-917,S2,ANALYSIS_SECTION_SURVEY_COMMENT_MOST_USED_WORD_917,Analysis,qa.medrev@gmail.com,rohit,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiology,Success,"Analysis,All Respondent Types","ATHENS SOFTWARE SERVICE,ATHENS SOFTWARE SERVICE,All Respondent Types"
+MED-921,S2,ANALYSIS_COMMENTS_SENTIMENTS_RATING_SECTION_921,Analysis,qa.medrev@gmail.com,rohit,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiology,Success,"Analysis,All Respondent Types",""
+MED-922,S2,ANALYSIS_FACEBOOK_RATING_SECTION_922,Analysis,,,,,,,,,,
+MED-923,S2,ANALYSIS_SURVEY_SENT_BUSINESS_STATISTICS_SECTION_WRT_GENERALSTATISTICS_923,Analysis,qa.medrev@gmail.com,rohit,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiology,Success,"Analysis,All Respondent Types",
+MED-924,S2,ANALYSIS_EMAIL_SENT_BUSNINESS_STSTISTICS_SECTION_WRT_GENERALSTATISTICS_924,Analysis,qa.medrev@gmail.com,rohit,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiology,Success,"Analysis,All Respondent Types",
+MED-925,S2,ANALYSIS_TOTALTXT_SENT_BUSNINESS_STSTISTICS_SECTION_925,Analysis,qa.medrev@gmail.com,rohit,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiology,Success,"Analysis,All Respondent Types",
+MED-926,S2,ANALYSIS_TOTALTIME_FRAME_RATING_COLUMN_BUSNINESS_STSTISTICS_SECTION_926,Analysis,qa.medrev@gmail.com,rohit,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiology,Success,"Analysis,All Respondent Types",
+MED-927,S2,ANALYSIS_ALLTIME_RATING_COLUMN_BUSNINESS_STSTISTICS_SECTION_927,Analysis,,,,,,,,"SurveyTestAuto,General Statistics","Analysis,All Respondent Types",
+MED-928,S2,ANALYSIS_SURVEY_QUESTION_RATING_928,Analysis,qa.medrev@gmail.com,rohit,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiology,Success,"Analysis,All Respondent Types",
+MED-929,S2,ANALYSIS_GOOGLE_RATING_929,Analysis,qa.medrev@gmail.com,rohit,All Respondent Type,SurveyTestAuto,,Dr.John Smith,Cardiology,Success,"Analysis,All Respondent Types",

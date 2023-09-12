@@ -1,0 +1,12 @@
+TCID,TSID,Key,feature_id,email,name,respondentType,surveyType,mobileNumber,provider,department,verificationText
+--MED-795,S5,SEND_SURVEY_VALID_FUNCTIONALITY_795,SurveyResultPage,qa.medrev@gmail.com,Ashish,All Respondent Type,SurveyTestAuto,9898989898,Dr.John Smith,Cardiology,Success
+--MED-797,S5,SEND_SURVEY_UPLOAD_BATCH_FUNCTIONALITY_797,SurveyResultPage,,,,,,,,"Upload Batch"
+--MED-798,S5,SEND_SURVEY_EMPTY_FIELDS_FUNCTIONALITY_798,SurveyResultPage,,,,,,,,"Please enter either an email address or phone number for this patient."
+---MED-799,S5,DASHBOARD_SENDSURVEY_FUNCTIONALITY_EMPTYSURVEYFORM_799,SurveyResultPage,,,,,,,,""
+--MED-800,S5,SEND_SURVEY_INVALID_FIELDS_FUNCTIONALITY_800,SurveyResultPage,7868,Ashish,All Respondent Type,SurveyTestAuto,9898989898,Dr.John Smith,Cardiology,"The email address does not appear to be valid. Please correct it and try again."
+---MED-801,S5,SEND_SURVEY_INVALID_PHONE_FUNCTIONALITY_801,SurveyResultPage,,,,,,,,"Employees,SurveyTestAuto,Ashish,qa.medrev@gmail.com,(248) 934-0913,Dr.John Smith"
+--MED-802,S5,SEND_SURVEY_BLANK_SURVEYTYPE_FUNCTIONALITY_802,SurveyResultPage,qa.medrev@gmail.com,Ashish,All Respondent Type,Select survey,,Dr.John Smith,Cardiology,"Please select a survey to send!"
+MED-803,S5,DASHBOARD_SUGGESTIONENGINE_NAMETEXTBOX_SENDSURVEYPAGE_803,SurveyResultPage,,,,,,,,""
+--MED-804,S5,SEND_SURVEY_INVALID_EMAIL_FUNCTIONALITY_804,SurveyResultPage,7868,Ashish,All Respondent Type,SurveyTestAuto,9898989898,Dr.John Smith,Cardiology,"The email address does not appear to be valid. Please correct it and try again."
+---MED-805,S5,SEND_SURVEY_SINGLE_ANSWER_FUNCTIONALITY_805,SurveyResultPage,qa.medrev@gmail.com,Ashish,All Respondent Type,SurveyTestAuto,9898989898,Dr.John Smith,Cardiology,"Success"
+---MED-931,S5,SEND_SURVEY_TEXT_REPLIES_FUNCTIONALITY_931,SurveyResultPage,qa.medrev@gmail.com,Ashish,All Respondent Type,SurveyTestAuto,9898989898,Dr.John Smith,Cardiology,"Success"
